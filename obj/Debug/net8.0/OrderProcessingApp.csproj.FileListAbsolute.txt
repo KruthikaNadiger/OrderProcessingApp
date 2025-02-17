@@ -32,3 +32,4 @@ C:\Users\kruth\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8
 C:\Users\kruth\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.pdb
 C:\Users\kruth\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.genruntimeconfig.cache
 C:\Users\kruth\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\ref\OrderProcessingApp.dll
+C:\Users\kruth\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.sourcelink.json
