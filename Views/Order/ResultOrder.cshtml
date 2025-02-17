@@ -1,0 +1,8 @@
+﻿<h2>Order Results</h2>
+<p>Original Order Amount: @Model.OrderAmount</p>
+<p>Discount Applied: @Model.Discount</p>
+<p>Final Total: @Model.FinalTotal</p>
+
+<a href="@Url.Action("CreateOrder", "Order")">
+    <button>Back</button>
+</a>
